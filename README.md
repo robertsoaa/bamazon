@@ -16,5 +16,10 @@ Once the user provides the product ID, they are asked how many units of the prod
 
 If the user types in a quantity that is larger than the current available quantity for the product that they have chosen, then an error message pops up, and they are taken back to the starting prompt.
 
-
 ![updated in the database](images/buying.gif)
+
+## Manager View (under construction)
+
+Part II of this assignment requires the developer to create a new Node application called bamazonManager.js. This application will allow the manager to (1) view products for Sale, (2) view low inventory, (3) add to the inventory, and (4) add new product. This portion is still a work-in-progress and is about 50% complete. The user can select and view products for sale. The user can also view item with low inventory. the application allows the user to select the item to add to the inventory. However, there is an unidentified bug that is is indicated a promise error.
+
+![managers view](images/parttwo.gif)
