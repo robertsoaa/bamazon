@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon - UCF Coding Bootcamp Week 12 Homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertsoaa/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "ucfbootcamp",
+    "coding",
+    "inventory",
+    "mysql"
+  ],
+  "author": "Adrian Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertsoaa/bamazon/issues"
+  },
+  "homepage": "https://github.com/robertsoaa/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
